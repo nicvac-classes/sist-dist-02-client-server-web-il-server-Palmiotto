@@ -1,0 +1,12 @@
+{
+  "name": "sist-dist-02-client-server-web-il-server-Palmiotto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nicvac-classes/sist-dist-02-client-server-web-il-server-Palmiotto",
+  "author": "Palmiotto <148053570+Palmiotto@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  }
+}
